@@ -1,8 +1,6 @@
-## Olá, Mundo! Me chamo Ana e:
-✔ Tenho 21 anos. <br>
-✔ Sou estudande de Desenvolvimento de Sistemas. <br>
-✔ Muito entusiasmada com a área de Desenvolvimento Web.
-
+## 
+Olá, Mundo! 
+Eu sou a Ana, tenho 21 anos <br> e atualmente estudante de Desenvolvimento de Sistemas.
 <div>
   <a href="https://github.com/afloradda">
   <img height="250" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afloradda&layout=compact&show_icons=true&theme=synthwave"/>
