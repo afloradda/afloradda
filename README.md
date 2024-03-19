@@ -9,7 +9,7 @@ Eu sou a Ana, tenho 21 anos <br> e atualmente estudante de Desenvolvimento de Si
 <div style="display: inline_block"><br>
     <p>Atualmente estudando:<p>
     <img alt="ana-icons-novos"
-    src="https://skills.thijs.gg/icons?i=,python,django">
+    src="https://skills.thijs.gg/icons?i=,python,django,javascript,react">
     <img align="right" alt="Ana-rue" heigth="50" width="150" src="https://media.tenor.com/fMH7i_iylrEAAAAC/euphoria-rue.gif">
 </div>
 
