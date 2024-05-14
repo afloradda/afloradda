@@ -20,8 +20,7 @@ Eu sou a Ana, tenho 21 anos <br> e <strong>atualmente</strong> sou estudante de 
 
 ## 
 
-<div>
-  <a href="https://github.com/afloradda">
-  <img height="250" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afloradda&layout=compact&show_icons=true&theme=shadow_blue"/>
-  <img height="190" width="50%" src="https://github-readme-stats.vercel.app/api?username=afloradda&show_icons=true&theme=shadow_blue">
+<div aling="center">
+  <img height="195px" width="41%" src="https://github-readme-stats.vercel.app/api?username=afloradda&show_icons=true&theme=shadow_blue">
+  <img height="195px" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afloradda&layout=compact&show_icons=true&theme=shadow_blue"/>
 </div>
