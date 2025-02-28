@@ -10,7 +10,7 @@ Eu sou a Ana, tenho 21 anos <br> e <strong>atualmente</strong> sou estudante de 
 
 
 ##
-### 📎 Estudando atualmente / Aprimorando :
+### 📎 Estudando / Aprimorando atualmente:
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=white)
