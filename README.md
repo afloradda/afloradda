@@ -21,10 +21,12 @@ Atualmente participo do **Bootcamp Java – Devs do Agi**, uma iniciativa do **A
 
 ---
 
-<div align="left">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=afloradda&show_icons=true&theme=shadow_blue"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afloradda&layout=compact&show_icons=true&theme=shadow_blue"/>
+<div align="center">
+  <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api?username=afloradda&show_icons=true&theme=shadow_blue"/>
+  <img height="180px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afloradda&layout=compact&show_icons=true&theme=shadow_blue"/>
 </div>
+
+
 <br/>
 
 ---
